@@ -1,1 +1,1 @@
-### Senior Discord Bot Dev
+### Not Senior Discord Bot Dev
