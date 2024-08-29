@@ -1,1 +1,1 @@
-### Not Senior Discord Bot Dev
+### Lowkey Fullstack Node.js Dev
